@@ -6,7 +6,7 @@
 <body>
     <h1>Página 2</h1>
     <p>Esta é a segunda página.</p>
-    <img src="imagem/img.jpg" alt="Girl in a jacket" width="600" height="600">
+    <img src="imagem/img.jpg" alt="" width="600" height="600">
 <a href="https://elisangela29.github.io/Curr-culo2/">Voltar para a Página 1</a>
 </body>
 </html>
