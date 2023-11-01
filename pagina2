@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Página 2</title>
-</head>
 <body>
-    <h1>Página 2</h1>
-    <p>Esta é a segunda página.</p>
-    <img src="imagem/img.jpg" alt="" width="600" height="600">
-<a href="https://elisangela29.github.io/Curr-culo2/">Voltar para a Página 1</a>
+
+<img src="imagem/img.jpg" alt="" style="width:600px;height:600px;">
+         <p><a href="https://elisangela29.github.io/Curr-culo2/">Voltar</a></p>
 </body>
 </html>
